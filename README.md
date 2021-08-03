@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheoNunu
+- 👋 Hi, I’m @TheoNunu, a 6 years old tech enthusiast.  
 - 👀 I’m interested in CODING AND DINOS
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on here with like minds
